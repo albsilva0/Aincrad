@@ -2,7 +2,7 @@
 
 Guild de Tibia de Descubra. 
 
-[Faça sua aplication agora!](https://www.tibia.com/community/?subtopic=guilds&page=view&GuildName=Aincrad)
+[Faça sua application agora!](https://www.tibia.com/community/?subtopic=guilds&page=view&GuildName=Aincrad)
 
 ### Links úteis 
 
