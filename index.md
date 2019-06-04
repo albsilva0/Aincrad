@@ -4,7 +4,7 @@ Guild de Tibia de Descubra.
 
 ### Regras gerais 
 
-- Use a discord é nossa principal ferramenta e facilita que as pessoas ajudem;
+- Use o discord! É nossa principal ferramenta e facilita que as pessoas ajudem;
 - Respeite os colegas da guild;
 - Não dê KS na hunt de outras pessoas;
 - Sempre tire print da carta da hunt que está (pode jogar o print na respectiva sala do discord).
