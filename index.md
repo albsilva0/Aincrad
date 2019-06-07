@@ -14,6 +14,8 @@ Guild de Tibia de Descubra.
 - [Calculadora de LVL para Sharear](https://www.tibiabr.com/calculadora-de-experiencia-party/)
 - [Calculadora de Loot/Waste PT](http://lootdotibia.kinghost.net/)
 - [Tabela de Custo Imbuements](https://docs.google.com/spreadsheets/d/19l_zR-qVqQ-t2O93OtamFgnLraZOSFZOgumkZkc_GuA/edit?usp=sharing)
+- [Formulário de alinhamento Quests/Metas](https://docs.google.com/forms/d/e/1FAIpQLSe1zd5J7TKIImKMwbw5XLSjQEZOXvx0zPkZ9-U4mjpjgCGPiA/viewform)
+
 
 ### Principais Comandos do BOT no Discord
 
